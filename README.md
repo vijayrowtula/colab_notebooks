@@ -38,3 +38,11 @@ Below are few colab notebooks, created for self practice. Examples are picked fr
 # Experimental
 * "Class Attention Image Transformers with LayerScale"
 * "Compact Convolutional Transformers"
+
+# Sources
+* https://github.com/aladdinpersson/Machine-Learning-Collection
+* https://github.com/pytorch/examples
+* https://github.com/yunjey/pytorch-tutorial
+* https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+* https://github.com/mrdbourke/pytorch-deep-learning
+* https://atcold.github.io/pytorch-Deep-Learning/
