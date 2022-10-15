@@ -2,7 +2,7 @@ Below are few colab notebooks, created for self practice. Examples are picked fr
 
 # Supervised classification / regression
 * Simple CNN - MNIST 
-* LSTM IMDB (pending)
+* LSTM MNIST
 * Simple CNN Fashion MNIST (pending)
 * Simple CNN CIFAR 10, 100, Cats vs Dogs (pending)
 * VGG16 - CIFAR 10, 100 (pending)
